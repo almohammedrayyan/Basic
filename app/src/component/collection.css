@@ -1,0 +1,70 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    /* border: 2px solid yellow; */
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.clasx {
+    position: relative;
+    /* justify-content: center; */
+    margin-left: 50px;
+    display: flex;
+
+}
+
+.fades {
+    position: relative;
+    width: 50%;
+    top: 100px;
+}
+
+.pay {
+    font-size: 30px;
+    margin-left: 50px;
+    top: 10px;
+    position: relative;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.block-1 {
+    position: relative;
+    margin: 60px;
+}
+
+.div-2 {
+    position: relative;
+    top: -395px;
+    left: 323px;
+}
+
+.textname {
+    position: relative;
+    left: 10px;
+    font-weight: 500;
+}
+
+.textpara {
+    position: relative;
+    left: 24px;
+    color: #003366;
+}
+
+.div:hover {
+    background-color: aliceblue;
+    /* width: 150px; */
+
+}
+
+.div-2:hover {
+    background-color: aliceblue;
+    /* width: 150px; */
+
+}

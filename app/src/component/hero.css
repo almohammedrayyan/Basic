@@ -1,0 +1,56 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container .flex-child .clasxx {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-child {
+    flex: 1;
+    position: relative;
+    top: 50px;
+    /* border: 2px solid yellow; */
+}
+
+
+
+.flex-child:first-child {
+    margin-right: 20px;
+}
+
+.clasxx {
+    position: relative;
+    justify-content: center;
+    display: flex;
+
+}
+
+.text-1 {
+    font-size: 20px;
+    font-family: sans-serif "roboto"
+}
+
+.head-1 {
+    font-size: 45px;
+    font-family: sans-serif "roboto";
+    position: relative;
+    top: 20px;
+}
+
+.head-2 {
+    font-size: 45px;
+    font-family: sans-serif "roboto";
+    color: #003366;
+    position: relative;
+    top: 49px;
+}
+
+.but-1 {
+    position: relative;
+    width: 200px;
+    border: 1px solid #003366;
+    top: 95px;
+}
