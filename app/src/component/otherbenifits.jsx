@@ -17,7 +17,7 @@ const OtherBenefits = () => {
             style={{
               backgroundColor: "#f9f9f9",
               width: "300px",
-              height: "305px",
+              // height: "305px",
             }}
           >
             <div className="text">
@@ -34,7 +34,7 @@ const OtherBenefits = () => {
             style={{
               backgroundColor: "#f9f9f9",
               width: "300px",
-              height: "305px",
+              // height: "305px",
             }}
           >
             <div className="text">
@@ -54,7 +54,7 @@ const OtherBenefits = () => {
             style={{
               backgroundColor: "#f9f9f9",
               width: "300px",
-              height: "305px",
+              // height: "305px",
             }}
           >
             <div className="text">

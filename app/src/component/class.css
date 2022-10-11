@@ -1,0 +1,30 @@
+.box {
+    box-sizing: border-box;
+    width: 100%;
+    border-color: 1px solid blue;
+}
+
+.class {
+    background-color: #0b4a94;
+    /* background-color: lightgrey; */
+    width: 1000px;
+    /* border: 15px solid green; */
+    padding: 50px;
+    margin: 20px;
+    color: aliceblue;
+    height: 300px;
+}
+
+.images {
+    position: relative;
+    top: -292px;
+    left: 58px;
+}
+
+.kou {
+    position: relative;
+    left: -69px;
+
+}
+
+.class2 {}

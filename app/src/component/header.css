@@ -11,6 +11,8 @@
     justify-content: center;
     /* margin-top: -25px; */
     list-style: none;
+    display: contents;
+    cursor: pointer;
 }
 
 .but {
@@ -34,4 +36,16 @@
     position: relative;
     display: contents;
     list-style: none;
+}
+
+.button-2 {
+    color: white;
+    background-color: #3e3a66;
+}
+
+.button-1 {
+    position: relative;
+    border: none;
+    background-color: none;
+    left: -5px;
 }

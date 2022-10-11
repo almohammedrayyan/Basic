@@ -1,5 +1,8 @@
 import React from "react";
+import Class from "../component/class";
 import Collection from "../component/collection";
+import Department from "../component/department";
+import Footer from "../component/footer";
 import Header from "../component/Header";
 import Hero from "../component/Hero";
 import Main from "../component/main";
@@ -29,6 +32,15 @@ const Layout = () => {
       </div>
       <div>
         <OtherBenefits />
+      </div>
+      <div style={{ position: "relative", marginTop: "10%" }}>
+        <Class />
+      </div>
+      <div style={{ position: "relative", marginTop: "15%" }}>
+        <Department />
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );

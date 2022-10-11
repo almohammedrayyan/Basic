@@ -1,0 +1,155 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    overflow: visible;
+}
+
+.img {
+    width: 110px;
+    height: 110px;
+}
+
+.para {
+    display: flex;
+    position: relative;
+    color: rgb(10, 10, 10);
+    left: 8px;
+    top: 20px;
+    font-size: 15px;
+    left: 0px;
+    font-weight: 600;
+    width: 40%;
+    text-align: justify;
+}
+
+.footer {
+    transition: all 0.5s;
+    position: relative;
+    top: 40px;
+    /* background-image: url("../../assets/building.png"); */
+    max-height: 450px;
+    transition: all 0.5s;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+    background-color: #edf2f3;
+    opacity: 1.3;
+}
+
+
+#foot {}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col a {
+    width: 25%;
+    padding: 0 15px;
+    color: rgb(17, 16, 16);
+    text-decoration: none;
+    font-weight: 600;
+    font-family: sans-serif;
+
+}
+
+.footer-col a:hover {
+    color: rgb(204, 222, 222);
+}
+
+.footer-col {
+    position: relative;
+    left: 42%;
+    top: -257px;
+}
+
+.imgs {
+    position: relative;
+    top: 40px;
+}
+
+.copyright {
+    display: flex;
+    color: rgb(16, 15, 15);
+    margin-top: 15px;
+    position: absolute;
+    top: 118%;
+    font-weight: 600;
+}
+
+.power {
+
+    display: flex;
+    position: absolute;
+    left: 70%;
+
+}
+
+.power p {
+    position: relative;
+    left: -5px;
+}
+
+.power a {
+    text-decoration: none;
+    color: rgb(33, 31, 31);
+    position: relative;
+    font-weight: 600;
+}
+
+.ver a {
+    text-decoration: none;
+    color: rgb(9, 9, 9);
+    font-weight: 600;
+}
+
+.footer-col ul {
+    display: block;
+}
+
+.footer-cols ul {
+    display: block;
+}
+
+.footer-cols {
+    position: relative;
+    left: 70%;
+    top: -609px;
+}
+
+.topdiv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.footer-cols a {
+    width: 25%;
+    padding: 0 15px;
+    color: rgb(11, 11, 11);
+    font-family: sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer-cols a:hover {
+    color: rgb(243, 229, 229);
+}
+
+p {
+    font-size: 15px;
+}
+
+.copyright p {
+    font-size: 15px;
+}
