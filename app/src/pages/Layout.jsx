@@ -9,6 +9,7 @@ import Main from "../component/main";
 import NeoBanking from "../component/neo-banking";
 import OtherBenefits from "../component/otherbenifits";
 import OtherPayment from "../component/otherpayement";
+import Salient from "../component/salient";
 import Slider from "../component/slider";
 
 const Layout = () => {
@@ -32,6 +33,9 @@ const Layout = () => {
       </div>
       <div>
         <OtherBenefits />
+      </div>
+      <div>
+        <Salient />
       </div>
       <div style={{ position: "relative", marginTop: "10%" }}>
         <Class />

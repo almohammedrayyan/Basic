@@ -27,4 +27,8 @@
 
 }
 
-.class2 {}
+.class2 {
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
